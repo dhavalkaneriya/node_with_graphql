@@ -65,6 +65,12 @@ let comments = [
     text: "comment 4",
     author: "123",
     post: "123"
+  },
+  {
+    id: "5",
+    text: "comment 5",
+    author: "123",
+    post: "123"
   }
 ];
 
